@@ -9,7 +9,7 @@ Instructor: Dr. Kelvin Bryant - ksbryant@ncat.edu
 
 You will be creating a contacts application to store information about clients for a business. I will give you a GUI project that I developed and you will to provide the backend functionality for the GUI project by developing two classes: Client and ContactList. The data for your application will come from a comma delimited file containing information about the clients. Ideally, you would use the validation methods to filter out contacts with issues. You are free to use the validation methods developed in the String Processing lab; however, it is not a requirement. You can just load all the records from the file this week. Note: You will have to modify the input method from the String Processing lab since I changed the input file format slightly by adding the name of the contact list as the first line of input (See the Input File Format section below).
 
-[Figure01](https://github.com/NCATCS/images/blob/master/Figure04-01.png)
+![Figure01](https://github.com/NCATCS/images/blob/master/Figure04-01.png)
 
 #### Step 1:
 
