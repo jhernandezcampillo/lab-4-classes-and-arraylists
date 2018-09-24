@@ -32,7 +32,7 @@ This class will contain an ArrayList and will model the entire contact list for 
 > 
 > firstname<sub>0</sub> lastname<sub>0</sub> gender<sub>0</sub> age<sub>0</sub> phone<sub>0</sub> email<sub>0</sub>
 
-#### Step 4:
+#### Step 3:
 
 Integrate your code with my GUI. If you do not implement things as outlined in the UML class diagrams, then your code will probably not work with my GUI code. Just FYI, the GUI project was created using the JavaFX SceneBuilder tool so there will be a lot of stuff in there that will look foreign. You do not have to worry about understanding my code since you will not be modifying any of it. You simply need to make your classes available for the GUI. Here’s how. Right click the “Libraries” folder in the GUI project (ContactsApp) and then select “Add jar/folder”. Navigate to the “dist” folder of your ContactsModel folder and select 
 contactsmodel.jar. You should now be able to run the application. Make sure you set the ContactsApp project as your main project. Note: I did not get a chance to implement the Add functionality on the GUI so clicking the button will not initiate any action. 
