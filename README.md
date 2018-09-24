@@ -12,7 +12,7 @@ You will be creating a contacts application to store information about clients f
 
 #### Step 1:
 
-Create a new project and **name it ContactsModel**. Next, create the Client class in this project under the contactsmodel package. Once you have finished adding the code for Client, test it out adding code to yur main method that declares and instantiates a Client object. Use the setter methods to modify some properties. Output the contents of the client object using the toString() and System.println() methods.
+Create a new project and **name it ContactsModel**. Next, create the Client class in this project under the contactsmodel package. Once you have finished adding the code for Client, test it out adding code to your main method that declares and instantiates a Client object. Use the setter methods to modify some properties. Output the contents of the client object using the toString() and System.println() methods. Make sure the toString() method returns a string with values seperated by a comma.
 
 ##### Client Class
 This class will model a single client.
