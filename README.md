@@ -30,7 +30,8 @@ This class will contain an ArrayList and will model the entire contact list for 
 >
 > list name
 > 
-> firstname<sub>0</sub> lastname<sub>0</sub> gender<sub>0</sub> age<sub>0</sub> phone<sub>0</sub> email<sub>0</sub>
+> firstname<sub>0</sub>, lastname<sub>0</sub>, gender<sub>0</sub>, age<sub>0</sub>, phone<sub>0</sub>, email<sub>0</sub>
+> firstname<sub>1</sub>, lastname<sub>1</sub>, gender<sub>1</sub>, age<sub>1</sub>, phone<sub>1</sub>, email<sub>1</sub>
 
 #### Step 3:
 
