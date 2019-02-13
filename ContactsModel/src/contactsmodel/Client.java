@@ -122,7 +122,7 @@ public class Client {
     }
     
     public String toString(){
-        return String.format("%-20s%-20s%-10s%10s%20s%30s", firstname, lastname, gender, age, phone, email);
+        return String.format("%-20s, %-20s, %-10s, %10s, %20s, %30s", firstname, lastname, gender, age, phone, email);
     }
 }
 
